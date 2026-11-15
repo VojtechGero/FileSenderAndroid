@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Generated Kotlin and module output
+.kotlin/
+**/build/
+
+# Local IDE configuration
+.idea/
+
+# Signing keys and local credentials
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
